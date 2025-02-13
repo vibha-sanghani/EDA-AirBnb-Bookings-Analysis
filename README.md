@@ -13,8 +13,7 @@ This project focuses on analyzing a dataset of approximately **49,000 observatio
 ## 📂 Key Insights Explored  
 ✔ **Guest preferences** for hosts and amenities.  
 ✔ **Popular room types** and price ranges.  
-✔ **Most preferred neighborhoods** based on reviews and booking trends.  
-✔ **Data-backed strategies** to enhance guest satisfaction and host offerings.  
+✔ **Most preferred neighborhoods** based on listing count.    
 
 ## 🛠️ Tech Stack  
 - **Programming Language**: Python  
