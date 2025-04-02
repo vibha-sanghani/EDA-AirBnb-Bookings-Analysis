@@ -35,9 +35,9 @@ The analysis of the Airbnb dataset focuses on extracting valuable insights for s
   - Neighbourhood Area Group: Found the most preferred areas.
 
 - **Relationships Explored**:
- - Price vs. Room Type: Checked price distribution among room types.
- - Reviews per Month vs. Room Type: Assessed customer engagement.
- - Price vs. Neighbourhood: Compared price variations across different areas.
+  - Price vs. Room Type: Checked price distribution among room types.
+  - Reviews per Month vs. Room Type: Assessed customer engagement.
+  - Price vs. Neighbourhood: Compared price variations across different areas.
 
 These insights will aid business growth, help hosts understand customer preferences, and enhance the travel experience.
 
